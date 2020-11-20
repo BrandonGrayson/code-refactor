@@ -10,3 +10,7 @@
 
 #### Credits
 Brandon Grayson
+
+##### Links
+https://brandongrayson.github.io/code-refactor/
+https://github.com/BrandonGrayson/code-refactor
