@@ -1,3 +1,4 @@
+/* Global Elements */
 * {
 	box-sizing: border-box;
 	padding: 0;
@@ -11,6 +12,7 @@ body {
 p {
 	font-size: 16px;
 }
+/* Global Elements */
 
 .header {
 	padding: 20px;
@@ -27,7 +29,7 @@ p {
 .header h1 .seo {
 	color: #d9dcd6;
 }
-
+/* Nav Elements */
 .header nav {
 	padding-top: 15px;
 	margin-right: 20px;
@@ -49,7 +51,8 @@ a {
 	color: #ffffff;
 	text-decoration: none;
 }
-
+/* Nav Elements */
+/* Page Content */
 .hero {
 	height: 800px;
 	width: 100%;
@@ -74,7 +77,8 @@ a {
 	display: inline-block;
 	margin-left: 20px;
 }
-
+/* Page Content */
+/* Aside */
 .benefits {
 	margin-right: 20px;
 	padding: 20px;
@@ -125,6 +129,7 @@ a {
 	margin-bottom: 20px;
 	font-size: 36px;
 }
+/* Aside */
 
 .footer {
 	padding: 30px;
